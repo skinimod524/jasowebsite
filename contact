@@ -39,7 +39,7 @@
 
         <nav>
             <nav style="background-color: #000000;"></nav>
-              <li><a href="contact.html"><b>Contact Us</b></a></li>
+              <li><a href="/contact"><b>Contact Us</b></a></li>
               <li><a href="/about"><b>About</b></a></li>
               <li><a href="/tutorial"><b>Tutorial</b></a></li>
               <li><a href="index.html"><b>Home</b></a></li>
