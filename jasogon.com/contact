@@ -39,15 +39,18 @@
 
         <nav>
             <nav style="background-color: #000000;"></nav>
-              <li><a href="/contact"><b>Contact Us</b></a></li>
+            <ul>
+                
+              <li><a href="https://jasogon.com/contact"><b>Contact Us</b></a></li>
               <li><a href="/about"><b>About</b></a></li>
               <li><a href="/tutorial"><b>Tutorial</b></a></li>
               <li><a href="index.html"><b>Home</b></a></li>
+            </ul>
           </nav>
 
     <center><h2>Looking for something in particular?</h2></center>
     <center><h3>We're here to help.</h3></center>  
-        
+
     <center><i class="material-icons" style="font-size:36px">message</i> <p>If you need any help, feel free to write</p></center>
     <center><a href="mailto:support@jasogon.com">support@jasogon.com</a></center>
     </body>
