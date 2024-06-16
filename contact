@@ -6,8 +6,6 @@
 <html>
     <head>
         <title>Contact Us</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -50,7 +48,7 @@
 
     <center><h2>Looking for something in particular?</h2></center>
     <center><h3>We're here to help.</h3></center>  
-    <center><i class="material-icons" style="font-size:36px">message</i> <p>If you need any help, feel free to write</p></center>
+    <p>If you need any help, feel free to write</p></center>
     <center><a href="mailto:support@jasogon.com">support@jasogon.com</a></center>
     </body>
 </html>
